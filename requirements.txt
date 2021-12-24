@@ -52,7 +52,6 @@ mccabe==0.6.1
 more-itertools==4.2.0
 mpmath==1.2.1
 netifaces==0.10.4
-notify-run==0.0.13
 oauthlib==3.1.0
 orjson==3.6.4
 passlib==1.7.4
