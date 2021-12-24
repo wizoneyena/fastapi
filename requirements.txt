@@ -72,7 +72,6 @@ pyOpenSSL==19.0.0
 PyQRCode==1.2.1
 pyrsistent==0.15.5
 pyserial==3.4
-python-apt==2.0.0
 python-dateutil==2.8.1
 python-debian===0.1.36ubuntu1
 python-dotenv==0.19.2
